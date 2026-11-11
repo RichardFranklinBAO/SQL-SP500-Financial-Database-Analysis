@@ -10,7 +10,8 @@ This is a relational-database research project combining **actual S&P 500 stock 
 - **[Step-by-step SQL workflow](code/README.md)** — Step 1 create tables, Step 2 calculate sector returns, Step 3 analyze results
 - **[One-command runner](code/run_all.py)** — `python3 SP500_SQL_Macro_Research/code/run_all.py`
 - **[Real historical 2017 Q1 dataset](data/README.md)** — 1,240 ticker-day prices, 20 real companies and 64 macro dates; **not synthetic data**
-- **[Research outputs & future PPT location](results/README.md)** — downloadable CSV results; presentation can be uploaded there
+- **[Original DATA 521 research presentation](results/DATA521_SQL_Research_Presentation.pptx)** — original course presentation, available as PPTX
+- **[Research results](results/README.md)** — downloadable CSV outputs and validation notes
 - **[Original team MySQL source](code/DATA521_Original_MySQL.sql)** — preserve the course implementation and coauthor attribution
 
 ## Run
