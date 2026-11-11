@@ -8,9 +8,9 @@ This folder contains **actual historical sample outputs**, produced by running `
 - [`data_quality.csv`](data_quality.csv) — source and derived database row counts.
 - `SP500_Research_Database.sqlite` is generated locally when the script runs and is gitignored to keep GitHub lightweight.
 
-## Original DATA 521 presentation — optional addition
+## Original DATA 521 research presentation
 
-The original jointly prepared research presentation can be added here as **`DATA521_SQL_Research_Presentation.pdf`** or **`DATA521_SQL_Research_Presentation.pptx`**. After it is uploaded, we can link it prominently from the root README. Do not claim the file is present before it has been uploaded.
+**[Open / download DATA521_SQL_Research_Presentation.pptx](DATA521_SQL_Research_Presentation.pptx)** — uploaded original PowerPoint presentation from the collaborative DATA 521 course project (Conglin Bao and Zirui Chen). This is the course presentation, not an automatically regenerated chart pack. To make viewing easier without PowerPoint, an optional PDF export can be added later.
 
 ## Independent full-history verification
 
