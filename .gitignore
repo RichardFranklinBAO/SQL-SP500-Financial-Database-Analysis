@@ -1,9 +1,8 @@
-__pycache__/
-*.pyc
+# Local generated database and developer artifacts
+**/*.sqlite
+**/__pycache__/
+**/*.pyc
 .DS_Store
-*.sqlite
-*.sqlite3
-outputs/
-data/raw/*.csv
-.env
-.ipynb_checkpoints/
+# Full raw historical downloads or nonredistributable extracts are local only
+**/data/full/
+**/data/raw/

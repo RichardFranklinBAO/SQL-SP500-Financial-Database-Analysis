@@ -1,0 +1,11 @@
+sector,volatility_regime,sector_days,mean_intraday_return
+Communication Services,VIX < 20,62,0.000155
+Consumer Discretionary,VIX < 20,62,0.001621
+Consumer Staples,VIX < 20,62,0.001057
+Energy,VIX < 20,62,-0.001648
+Financials,VIX < 20,62,0.000193
+Health Care,VIX < 20,62,0.002025
+Industrials,VIX < 20,62,0.000257
+Information Technology,VIX < 20,62,0.001244
+Real Estate,VIX < 20,62,0.001422
+Utilities,VIX < 20,62,0.001533

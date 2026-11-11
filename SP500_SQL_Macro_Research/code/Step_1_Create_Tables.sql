@@ -1,4 +1,5 @@
--- SQLite research schema (portable showcase implementation).
+-- STEP 1 | Build a clean relational database from three historical CSV sources.
+-- Three source tables + two derived research tables. SQLite dialect.
 PRAGMA foreign_keys=ON;
 CREATE TABLE companies (
   ticker TEXT PRIMARY KEY,

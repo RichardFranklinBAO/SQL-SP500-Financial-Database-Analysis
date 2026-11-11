@@ -1,0 +1,11 @@
+sector,sector_days,mean_intraday_return,mean_vix,mean_fed_funds_rate
+Health Care,62,0.002025,11.69,0.705
+Consumer Discretionary,62,0.001621,11.69,0.705
+Utilities,62,0.001533,11.69,0.705
+Real Estate,62,0.001422,11.69,0.705
+Information Technology,62,0.001244,11.69,0.705
+Consumer Staples,62,0.001057,11.69,0.705
+Industrials,62,0.000257,11.69,0.705
+Financials,62,0.000193,11.69,0.705
+Communication Services,62,0.000155,11.69,0.705
+Energy,62,-0.001648,11.69,0.705

@@ -1,0 +1,21 @@
+Symbol,Security,GICS Sector,GICS Sub-Industry,Headquarters Location,Date added,CIK,Founded
+AMZN,Amazon,Consumer Discretionary,Broadline Retail,"Seattle, Washington",2005/11/18,1018724,1994
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals","Cupertino, California",1982/11/30,320193,1977
+T,AT&T,Communication Services,Integrated Telecommunication Services,"Dallas, Texas",1983/11/30,732717,1983 (1885)
+BAC,Bank of America,Financials,Diversified Banks,"Charlotte, North Carolina",1976/6/30,70858,1998 (1923 / 1874)
+CAT,Caterpillar Inc.,Industrials,Construction Machinery & Heavy Transportation Equipment,"Irving, Texas",1957/3/4,18230,1925
+CVX,Chevron Corporation,Energy,Integrated Oil & Gas,"Houston, Texas",1957/3/4,93410,1879
+DE,Deere & Company,Industrials,Agricultural & Farm Machinery,"Moline, Illinois",1957/3/4,315189,1837
+DUK,Duke Energy,Utilities,Electric Utilities,"Charlotte, North Carolina",1976/6/30,1326160,1904
+XOM,ExxonMobil,Energy,Integrated Oil & Gas,"Irving, Texas",1957/3/4,34088,1999
+HD,Home Depot (The),Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",1988/3/31,354950,1978
+JNJ,Johnson & Johnson,Health Care,Pharmaceuticals,"New Brunswick, New Jersey",1973/6/30,200406,1886
+JPM,JPMorgan Chase,Financials,Diversified Banks,"New York City, New York",1975/6/30,19617,2000 (1799 / 1871)
+MSFT,Microsoft,Information Technology,Systems Software,"Redmond, Washington",1994/6/1,789019,1975
+NEE,NextEra Energy,Utilities,Multi-Utilities,"Juno Beach, Florida",1976/6/30,753308,1984 (1925)
+NVDA,Nvidia,Information Technology,Semiconductors,"Santa Clara, California",2001/11/30,1045810,1993
+PFE,Pfizer,Health Care,Pharmaceuticals,"New York City, New York",1957/3/4,78003,1849
+PG,Procter & Gamble,Consumer Staples,Personal Care Products,"Cincinnati, Ohio",1957/3/4,80424,1837
+O,Realty Income,Real Estate,Retail REITs,"San Diego, California",2015/4/7,726728,1969
+VZ,Verizon,Communication Services,Integrated Telecommunication Services,"New York City, New York",1983/11/30,732712,1983 (1877)
+WMT,Walmart,Consumer Staples,Consumer Staples Merchandise Retail,"Bentonville, Arkansas",1982/8/31,104169,1962
