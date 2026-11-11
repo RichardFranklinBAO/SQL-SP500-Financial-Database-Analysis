@@ -38,7 +38,7 @@ The included **historical 2017 Q1 sample** runs using Python 3's standard-librar
 
 ## Scope, Provenance & Limitations
 
-The 2017 Q1 sample is **real historical data**, but it is **not the full 2013–2018 coursework dataset**. During separate full-data verification, the pipeline reproduced **13,849 / 13,849 sector-day aggregates** from the saved original course export within numerical tolerance; the full underlying data and reference export are not redistributed here.
+**Data coverage and reproducibility.** This repository provides a **reproducible subset of the original historical dataset** (real observations from 2017 Q1) so readers can run and inspect the complete SQL workflow without obtaining the full data. The complete 2013–2018 historical dataset was used separately for independent validation: the pipeline reproduced **13,849 / 13,849 sector-day aggregates** from the original coursework export within numerical tolerance. **Neither the full historical dataset nor the original reference export is redistributed in this repository.** Consequently, the included sample demonstrates the workflow and its sample-specific results; it does not by itself reproduce the full-period analysis.
 
 This is **descriptive** financial-data analysis, not a causal study, point-in-time trading backtest or claim of investment returns. Snapshot sector classifications and the timing of macroeconomic data availability limit historical interpretation. See [data notes and licensing cautions](SP500_SQL_Macro_Research/data/README.md), including restrictions that may apply to VIX data.
 
