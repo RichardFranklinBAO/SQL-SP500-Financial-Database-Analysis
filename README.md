@@ -2,7 +2,8 @@
 
 **DATA 521 (Emory University)** · Original collaborative course project by **Conglin Bao (Franklin) and Zirui Chen**.
 
-**[View the DATA 521 Research Presentation](SP500_SQL_Macro_Research/results/DATA521_SQL_Research_Presentation.pptx)** — original course presentation (PPTX; jointly prepared project).  
+**[View the DATA 521 Research Presentation (PDF)](SP500_SQL_Macro_Research/results/DATA521_SQL_Research_Presentation.pdf)** — easy-to-read course presentation for reviewers.  
+[Download the editable PowerPoint (PPTX)](SP500_SQL_Macro_Research/results/DATA521_SQL_Research_Presentation.pptx) — original jointly prepared course slides.  
 **[Open the complete project folder](SP500_SQL_Macro_Research/README.md)** — read the research summary, follow the three SQL steps, and examine historical data and results.
 
 **Fastest way to try it:**
