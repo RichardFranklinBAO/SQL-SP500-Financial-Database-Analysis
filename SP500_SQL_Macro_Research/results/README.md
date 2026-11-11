@@ -10,7 +10,9 @@ This folder contains **actual historical sample outputs**, produced by running `
 
 ## Original DATA 521 research presentation
 
-**[Open / download DATA521_SQL_Research_Presentation.pptx](DATA521_SQL_Research_Presentation.pptx)** — uploaded original PowerPoint presentation from the collaborative DATA 521 course project (Conglin Bao and Zirui Chen). This is the course presentation, not an automatically regenerated chart pack. To make viewing easier without PowerPoint, an optional PDF export can be added later.
+**[View the final course presentation (PDF)](DATA521_SQL_Research_Presentation.pdf)** — reviewer-friendly version of the collaborative DATA 521 research presentation (Conglin Bao and Zirui Chen).
+
+**[Download the editable presentation (PPTX)](DATA521_SQL_Research_Presentation.pptx)** — PowerPoint source slides, also retained for editing. Both files are course presentation materials, not automatically regenerated analysis output.
 
 ## Independent full-history verification
 
